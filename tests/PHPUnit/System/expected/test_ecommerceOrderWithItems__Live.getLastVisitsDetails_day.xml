@@ -12,6 +12,7 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>11</pageId>
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
@@ -43,6 +44,7 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>12</pageId>
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
@@ -73,6 +75,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
+				
 				
 				<pageId>13</pageId>
 				<timeSpent>361</timeSpent>
@@ -245,6 +248,7 @@
 				<pageTitle>Looking at Electronics &amp; Cameras page with a page level custom variable</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>5</pageId>
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
@@ -264,6 +268,7 @@
 				<pageTitle>Looking at Electronics &amp; Cameras page again</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>6</pageId>
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
@@ -282,6 +287,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>Looking at product page</pageTitle>
 				<pageIdAction>2</pageIdAction>
+				
 				
 				<pageId>7</pageId>
 				<timeSpent>720</timeSpent>
@@ -372,6 +378,7 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>8</pageId>
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
@@ -403,6 +410,7 @@
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>9</pageId>
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
@@ -433,6 +441,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>View product left in cart</pageTitle>
 				<pageIdAction>2</pageIdAction>
+				
 				
 				<pageId>10</pageId>
 				<timeSpent>361</timeSpent>
@@ -616,6 +625,7 @@
 				<pageTitle>incredible title!</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>1</pageId>
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
@@ -646,6 +656,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>Another Product page</pageTitle>
 				<pageIdAction>2</pageIdAction>
+				
 				
 				<pageId>2</pageId>
 				<timeSpent>360</timeSpent>
@@ -678,6 +689,7 @@
 				<pageTitle>Another Product page with no category</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>3</pageId>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
@@ -708,6 +720,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>Another Product page with multiple categories</pageTitle>
 				<pageIdAction>2</pageIdAction>
+				
 				
 				<pageId>4</pageId>
 				<interactionPosition>4</interactionPosition>

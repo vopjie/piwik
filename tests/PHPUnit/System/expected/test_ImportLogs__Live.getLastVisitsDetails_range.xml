@@ -23,6 +23,7 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>49</pageId>
 				<generationTimeMilliseconds>292</generationTimeMilliseconds>
 				<generationTime>0.29s</generationTime>
@@ -151,6 +152,7 @@
 				<pageTitle>Changelog Archive - Analytics - Piwik</pageTitle>
 				<pageIdAction>44</pageIdAction>
 				
+				
 				<pageId>40</pageId>
 				<timeSpent>79</timeSpent>
 				<timeSpentPretty>1 min 19s</timeSpentPretty>
@@ -180,6 +182,7 @@
 				<url>http://piwik.org/contact/</url>
 				<pageTitle>Contact the Piwik team - Analytics - Piwik</pageTitle>
 				<pageIdAction>55</pageIdAction>
+				
 				
 				<pageId>48</pageId>
 				<interactionPosition>2</interactionPosition>
@@ -300,6 +303,7 @@
 				<url>http://demo.piwik.org/index.php?module=CoreHome&amp;action=index&amp;date=yesterday&amp;period=day&amp;idSite=7</url>
 				<pageTitle>demo.piwik.org/Piwik Forums - Piwik › Web Analytics Reports</pageTitle>
 				<pageIdAction>53</pageIdAction>
+				
 				
 				<pageId>47</pageId>
 				<generationTimeMilliseconds>413</generationTimeMilliseconds>
@@ -441,6 +445,7 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>44</pageId>
 				<timeSpent>32</timeSpent>
 				<timeSpentPretty>32s</timeSpentPretty>
@@ -470,6 +475,7 @@
 				<url>http://piwik.org/what-is-piwisk/</url>
 				<pageTitle>What is Piwik? - Analytics - Piwik</pageTitle>
 				<pageIdAction>51</pageIdAction>
+				
 				
 				<pageId>46</pageId>
 				<interactionPosition>2</interactionPosition>
@@ -600,6 +606,7 @@
 				<url>http://demo.piwik.org/</url>
 				<pageTitle />
 				<pageIdAction>49</pageIdAction>
+				
 				
 				<pageId>45</pageId>
 				<interactionPosition />
@@ -741,6 +748,7 @@
 				<url>http://piwik.org/blog/2012/10/integrate-piwik-into-your-rails-application/</url>
 				<pageTitle>Integrate Piwik into your Rails Application - Analytics - Piwik</pageTitle>
 				<pageIdAction>48</pageIdAction>
+				
 				
 				<pageId>43</pageId>
 				<generationTimeMilliseconds>391</generationTimeMilliseconds>
@@ -893,6 +901,7 @@
 				<pageTitle>Log Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>42</pageIdAction>
 				
+				
 				<pageId>42</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -1030,6 +1039,7 @@
 				<pageTitle>Piwik 2.1 — Massive Performance and Reliability Improvements - Analytics - Piwik</pageTitle>
 				<pageIdAction>46</pageIdAction>
 				
+				
 				<pageId>41</pageId>
 				<generationTimeMilliseconds>119</generationTimeMilliseconds>
 				<generationTime>0.12s</generationTime>
@@ -1160,6 +1170,7 @@
 				<url>http://piwik.org/log-analytics/</url>
 				<pageTitle>Log Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>42</pageIdAction>
+				
 				
 				<pageId>39</pageId>
 				<generationTimeMilliseconds>145</generationTimeMilliseconds>
@@ -1301,6 +1312,7 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>35</pageId>
 				<timeSpent>2</timeSpent>
 				<timeSpentPretty>2s</timeSpentPretty>
@@ -1333,6 +1345,7 @@
 				<pageTitle>Download - Analytics - Piwik</pageTitle>
 				<pageIdAction>39</pageIdAction>
 				
+				
 				<pageId>37</pageId>
 				<timeSpent>7</timeSpent>
 				<timeSpentPretty>7s</timeSpentPretty>
@@ -1353,6 +1366,7 @@
 				<url>http://builds.piwik.org/latest.zip</url>
 				<pageTitle />
 				<pageIdAction>40</pageIdAction>
+				
 				
 				<pageId>38</pageId>
 				<interactionPosition />
@@ -1486,6 +1500,7 @@
 				<url>http://piwik.org/docs/installation/</url>
 				<pageTitle>Hello Installing Piwik - Analytics - Piwik</pageTitle>
 				<pageIdAction>37</pageIdAction>
+				
 				
 				<pageId>36</pageId>
 				<generationTimeMilliseconds>134</generationTimeMilliseconds>
@@ -1630,6 +1645,7 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>34</pageId>
 				<generationTimeMilliseconds>58</generationTimeMilliseconds>
 				<generationTime>0.06s</generationTime>
@@ -1762,6 +1778,7 @@
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
 				
+				
 				<pageId>70</pageId>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
@@ -1794,6 +1811,7 @@
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
 				
+				
 				<pageId>74</pageId>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
@@ -1814,6 +1832,7 @@
 				<url>http://piwik.net/blog/category/meta/</url>
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
+				
 				
 				<pageId>78</pageId>
 				<timeSpent>52</timeSpent>
@@ -1836,6 +1855,7 @@
 				<pageTitle />
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>71</pageId>
 				<timeSpent>50</timeSpent>
 				<timeSpentPretty>50s</timeSpentPretty>
@@ -1856,6 +1876,7 @@
 				<url>http://piwik.net/faq/</url>
 				<pageTitle />
 				<pageIdAction>2</pageIdAction>
+				
 				
 				<pageId>75</pageId>
 				<timeSpent>49</timeSpent>
@@ -1878,6 +1899,7 @@
 				<pageTitle />
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>79</pageId>
 				<timeSpent>26</timeSpent>
 				<timeSpentPretty>26s</timeSpentPretty>
@@ -1898,6 +1920,7 @@
 				<url>http://piwik.net/blog/category/community/</url>
 				<pageTitle />
 				<pageIdAction>3</pageIdAction>
+				
 				
 				<pageId>72</pageId>
 				<timeSpent>26</timeSpent>
@@ -1920,6 +1943,7 @@
 				<pageTitle />
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>76</pageId>
 				<timeSpent>7</timeSpent>
 				<timeSpentPretty>7s</timeSpentPretty>
@@ -1941,6 +1965,7 @@
 				<pageTitle />
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>73</pageId>
 				<timeSpent>8</timeSpent>
 				<timeSpentPretty>8s</timeSpentPretty>
@@ -1961,6 +1986,7 @@
 				<url>http://piwik.net/docs/manage-websites/</url>
 				<pageTitle />
 				<pageIdAction>4</pageIdAction>
+				
 				
 				<pageId>77</pageId>
 				<generationTimeMilliseconds>343</generationTimeMilliseconds>
@@ -2080,6 +2106,7 @@
 				<pageTitle />
 				<pageIdAction>65</pageIdAction>
 				
+				
 				<pageId>86</pageId>
 				<generationTimeMilliseconds>1</generationTimeMilliseconds>
 				<generationTime>0.001s</generationTime>
@@ -2187,6 +2214,7 @@
 				<pageTitle>302/URL = http%3A%2F%2Fpiwik.net%2FCitrix%2FXenApp%2FWan%2Fauth%2Flogin.jsp</pageTitle>
 				<pageIdAction>63</pageIdAction>
 				
+				
 				<pageId>84</pageId>
 				<timeSpent>240</timeSpent>
 				<timeSpentPretty>4 min 0s</timeSpentPretty>
@@ -2216,6 +2244,7 @@
 				<url>http://piwik.net/Citrix/XenApp/Wan/auth/silentDetection.jsp</url>
 				<pageTitle />
 				<pageIdAction>64</pageIdAction>
+				
 				
 				<pageId>85</pageId>
 				<interactionPosition>2</interactionPosition>
@@ -2332,6 +2361,7 @@
 				<url>http://hello.example.com/hello/from/another/world/6,681965</url>
 				<pageTitle />
 				<pageIdAction>61</pageIdAction>
+				
 				
 				<pageId>94</pageId>
 				<generationTimeMilliseconds>359</generationTimeMilliseconds>
@@ -2452,6 +2482,7 @@
 				<pageTitle />
 				<pageIdAction>56</pageIdAction>
 				
+				
 				<pageId>80</pageId>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
@@ -2484,6 +2515,7 @@
 				<pageTitle>301/URL = http%3A%2F%2Fexample.hello.com%2FTopic%2Fhw43061</pageTitle>
 				<pageIdAction>58</pageIdAction>
 				
+				
 				<pageId>81</pageId>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
@@ -2502,6 +2534,7 @@
 				<url>http://xzy.example.com/Products/theProduct</url>
 				<pageTitle />
 				<pageIdAction>56</pageIdAction>
+				
 				
 				<pageId>91</pageId>
 				<generationTimeMilliseconds>109</generationTimeMilliseconds>
@@ -2633,6 +2666,7 @@
 				<pageTitle>404/URL = http%3A%2F%2Fhello.example.com%2Fhello%2Fworld%2F6%2C681965</pageTitle>
 				<pageIdAction>60</pageIdAction>
 				
+				
 				<pageId>82</pageId>
 				<generationTimeMilliseconds>359</generationTimeMilliseconds>
 				<generationTime>0.36s</generationTime>
@@ -2740,6 +2774,7 @@
 				<pageTitle>404/URL = http%3A%2F%2Fhello.example.com%2Fhello%2Fworld%2F6%2C681965</pageTitle>
 				<pageIdAction>60</pageIdAction>
 				
+				
 				<pageId>93</pageId>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
@@ -2779,6 +2814,7 @@
 				<url>http://hello.example.com/hello/from/another/world/6,681965</url>
 				<pageTitle />
 				<pageIdAction>61</pageIdAction>
+				
 				
 				<pageId>83</pageId>
 				<generationTimeMilliseconds>359</generationTimeMilliseconds>
@@ -2897,6 +2933,7 @@
 				<url>http://example.hello.com/Topic/hw43061</url>
 				<pageTitle>301/URL = http%3A%2F%2Fexample.hello.com%2FTopic%2Fhw43061</pageTitle>
 				<pageIdAction>58</pageIdAction>
+				
 				
 				<pageId>92</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -3025,6 +3062,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>incredible title!</pageTitle>
 				<pageIdAction>29</pageIdAction>
+				
 				
 				<pageId>30</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -3166,6 +3204,7 @@
 				<url>http://forum.piwik.org/register.php?0,approve=9a94a02145599</url>
 				<pageTitle>Piwik Forums</pageTitle>
 				<pageIdAction>31</pageIdAction>
+				
 				
 				<pageId>31</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -3316,6 +3355,7 @@
 				<pageTitle />
 				<pageIdAction>5</pageIdAction>
 				
+				
 				<pageId>89</pageId>
 				<generationTimeMilliseconds>1</generationTimeMilliseconds>
 				<generationTime>0.001s</generationTime>
@@ -3434,6 +3474,7 @@
 				<pageTitle />
 				<pageIdAction>71</pageIdAction>
 				
+				
 				<pageId>90</pageId>
 				<generationTimeMilliseconds>9</generationTimeMilliseconds>
 				<generationTime>0.009s</generationTime>
@@ -3540,13 +3581,14 @@
 				<url>http://piwik.net/shqshne4jdp4b6.cloudfront.net/cfx/st​?key=value</url>
 				<pageIdAction>66</pageIdAction>
 				
+				
 				<pageId>88</pageId>
 				<eventCategory>cloudfront_rtmp</eventCategory>
 				<eventAction>play</eventAction>
 				<eventName>myvideo</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>HTTP-code</customVariablePageName1>
@@ -3647,12 +3689,13 @@
 				<url>http://piwik.net/shqshne4jdp4b6.cloudfront.net/cfx/st​?key=value</url>
 				<pageIdAction>66</pageIdAction>
 				
+				
 				<pageId>87</pageId>
 				<eventCategory>cloudfront_rtmp</eventCategory>
 				<eventAction>connect</eventAction>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>HTTP-code</customVariablePageName1>
@@ -3764,6 +3807,7 @@
 				<url>http://piwik.net/blog/category/meta/</url>
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
+				
 				
 				<pageId>28</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -3885,6 +3929,7 @@
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
 				
+				
 				<pageId>29</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -3994,6 +4039,7 @@
 				<pageTitle>301/URL = http%3A%2F%2Fpiwik.net%2Fmoved-permanently</pageTitle>
 				<pageIdAction>25</pageIdAction>
 				
+				
 				<pageId>26</pageId>
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
@@ -4023,6 +4069,7 @@
 				<url>http://piwik.net/temp-redirect</url>
 				<pageTitle>307/URL = http%3A%2F%2Fpiwik.net%2Ftemp-redirect</pageTitle>
 				<pageIdAction>27</pageIdAction>
+				
 				
 				<pageId>27</pageId>
 				<interactionPosition>2</interactionPosition>
@@ -4133,6 +4180,7 @@
 				<pageTitle />
 				<pageIdAction>21</pageIdAction>
 				
+				
 				<pageId>23</pageId>
 				<timeSpent>61</timeSpent>
 				<timeSpentPretty>1 min 1s</timeSpentPretty>
@@ -4152,6 +4200,7 @@
 				<pageTitle />
 				<pageIdAction>22</pageIdAction>
 				
+				
 				<pageId>24</pageId>
 				<timeSpent>61</timeSpent>
 				<timeSpentPretty>1 min 1s</timeSpentPretty>
@@ -4170,6 +4219,7 @@
 				<url>http://piwik.net/other.png</url>
 				<pageTitle />
 				<pageIdAction>23</pageIdAction>
+				
 				
 				<pageId>25</pageId>
 				<interactionPosition />
@@ -4291,6 +4341,7 @@
 				<pageTitle />
 				<pageIdAction>5</pageIdAction>
 				
+				
 				<pageId>22</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -4411,6 +4462,7 @@
 				<pageTitle>500/URL = http%3A%2F%2Fpiwik.net%2Fto-an-error</pageTitle>
 				<pageIdAction>20</pageIdAction>
 				
+				
 				<pageId>21</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -4519,6 +4571,7 @@
 				<url>http://piwik.net/19.pdf</url>
 				<pageTitle />
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>18</pageId>
 				<interactionPosition />
@@ -4640,6 +4693,7 @@
 				<pageTitle>404/URL = http%3A%2F%2Fpiwik.net%2Fthis%2Fis%2Fnot%2Fthe%2Fpage%2Fi%2Fam%2Flooking%2Ffor%2F</pageTitle>
 				<pageIdAction>18</pageIdAction>
 				
+				
 				<pageId>20</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -4759,6 +4813,7 @@
 				<url>http://piwik.net/blog/category/meta/</url>
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
+				
 				
 				<pageId>19</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -4880,6 +4935,7 @@
 				<pageTitle />
 				<pageIdAction>15</pageIdAction>
 				
+				
 				<pageId>17</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -4995,6 +5051,7 @@
 				<url>http://piwik.net/faq/how-to-install/</url>
 				<pageTitle />
 				<pageIdAction>14</pageIdAction>
+				
 				
 				<pageId>16</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -5112,6 +5169,7 @@
 				<pageTitle />
 				<pageIdAction>13</pageIdAction>
 				
+				
 				<pageId>15</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -5227,6 +5285,7 @@
 				<url>http://piwik.net/intranet-analytics/</url>
 				<pageTitle />
 				<pageIdAction>12</pageIdAction>
+				
 				
 				<pageId>14</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -5344,6 +5403,7 @@
 				<pageTitle />
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>13</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -5459,6 +5519,7 @@
 				<url>http://piwik.net/faq/</url>
 				<pageTitle />
 				<pageIdAction>2</pageIdAction>
+				
 				
 				<pageId>12</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -5576,6 +5637,7 @@
 				<pageTitle />
 				<pageIdAction>11</pageIdAction>
 				
+				
 				<pageId>11</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -5691,6 +5753,7 @@
 				<url>http://piwik.net/newsletter/</url>
 				<pageTitle />
 				<pageIdAction>10</pageIdAction>
+				
 				
 				<pageId>10</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -5808,6 +5871,7 @@
 				<pageTitle />
 				<pageIdAction>9</pageIdAction>
 				
+				
 				<pageId>9</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -5923,6 +5987,7 @@
 				<url>http://piwik.net/docs/</url>
 				<pageTitle />
 				<pageIdAction>8</pageIdAction>
+				
 				
 				<pageId>8</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -6040,6 +6105,7 @@
 				<pageTitle />
 				<pageIdAction>7</pageIdAction>
 				
+				
 				<pageId>7</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -6155,6 +6221,7 @@
 				<url>http://piwik.net/download/counter/</url>
 				<pageTitle />
 				<pageIdAction>6</pageIdAction>
+				
 				
 				<pageId>6</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -6272,6 +6339,7 @@
 				<pageTitle />
 				<pageIdAction>5</pageIdAction>
 				
+				
 				<pageId>5</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -6387,6 +6455,7 @@
 				<url>http://piwik.net/docs/manage-websites/</url>
 				<pageTitle />
 				<pageIdAction>4</pageIdAction>
+				
 				
 				<pageId>4</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -6504,6 +6573,7 @@
 				<pageTitle />
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>3</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -6620,6 +6690,7 @@
 				<pageTitle />
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>2</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -6735,6 +6806,7 @@
 				<url>http://piwik.net/blog/category/meta/</url>
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
+				
 				
 				<pageId>1</pageId>
 				<interactionPosition>1</interactionPosition>

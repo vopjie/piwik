@@ -12,6 +12,7 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>69</pageId>
 				<generationTimeMilliseconds>292</generationTimeMilliseconds>
 				<generationTime>0.29s</generationTime>
@@ -140,6 +141,7 @@
 				<pageTitle>Changelog Archive - Analytics - Piwik</pageTitle>
 				<pageIdAction>44</pageIdAction>
 				
+				
 				<pageId>60</pageId>
 				<timeSpent>79</timeSpent>
 				<timeSpentPretty>1 min 19s</timeSpentPretty>
@@ -158,6 +160,7 @@
 				<url>http://piwik.org/contact/</url>
 				<pageTitle>Contact the Piwik team - Analytics - Piwik</pageTitle>
 				<pageIdAction>55</pageIdAction>
+				
 				
 				<pageId>68</pageId>
 				<interactionPosition>2</interactionPosition>
@@ -267,6 +270,7 @@
 				<url>http://demo.piwik.org/index.php?module=CoreHome&amp;action=index&amp;date=yesterday&amp;period=day&amp;idSite=7</url>
 				<pageTitle>demo.piwik.org/Piwik Forums - Piwik › Web Analytics Reports</pageTitle>
 				<pageIdAction>53</pageIdAction>
+				
 				
 				<pageId>67</pageId>
 				<generationTimeMilliseconds>413</generationTimeMilliseconds>
@@ -408,6 +412,7 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>64</pageId>
 				<timeSpent>32</timeSpent>
 				<timeSpentPretty>32s</timeSpentPretty>
@@ -426,6 +431,7 @@
 				<url>http://piwik.org/what-is-piwisk/</url>
 				<pageTitle>What is Piwik? - Analytics - Piwik</pageTitle>
 				<pageIdAction>51</pageIdAction>
+				
 				
 				<pageId>66</pageId>
 				<interactionPosition>2</interactionPosition>
@@ -557,6 +563,7 @@
 				<pageTitle />
 				<pageIdAction>49</pageIdAction>
 				
+				
 				<pageId>65</pageId>
 				<interactionPosition />
 				<icon>plugins/Morpheus/images/link.png</icon>
@@ -686,6 +693,7 @@
 				<url>http://piwik.org/blog/2012/10/integrate-piwik-into-your-rails-application/</url>
 				<pageTitle>Integrate Piwik into your Rails Application - Analytics - Piwik</pageTitle>
 				<pageIdAction>48</pageIdAction>
+				
 				
 				<pageId>63</pageId>
 				<generationTimeMilliseconds>391</generationTimeMilliseconds>
@@ -827,6 +835,7 @@
 				<pageTitle>Log Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>42</pageIdAction>
 				
+				
 				<pageId>62</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -953,6 +962,7 @@
 				<pageTitle>Piwik 2.1 — Massive Performance and Reliability Improvements - Analytics - Piwik</pageTitle>
 				<pageIdAction>46</pageIdAction>
 				
+				
 				<pageId>61</pageId>
 				<generationTimeMilliseconds>119</generationTimeMilliseconds>
 				<generationTime>0.12s</generationTime>
@@ -1072,6 +1082,7 @@
 				<url>http://piwik.org/log-analytics/</url>
 				<pageTitle>Log Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>42</pageIdAction>
+				
 				
 				<pageId>59</pageId>
 				<generationTimeMilliseconds>145</generationTimeMilliseconds>
@@ -1213,6 +1224,7 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>55</pageId>
 				<timeSpent>2</timeSpent>
 				<timeSpentPretty>2s</timeSpentPretty>
@@ -1234,6 +1246,7 @@
 				<pageTitle>Download - Analytics - Piwik</pageTitle>
 				<pageIdAction>39</pageIdAction>
 				
+				
 				<pageId>57</pageId>
 				<timeSpent>7</timeSpent>
 				<timeSpentPretty>7s</timeSpentPretty>
@@ -1254,6 +1267,7 @@
 				<url>http://builds.piwik.org/latest.zip</url>
 				<pageTitle />
 				<pageIdAction>40</pageIdAction>
+				
 				
 				<pageId>58</pageId>
 				<interactionPosition />
@@ -1376,6 +1390,7 @@
 				<url>http://piwik.org/docs/installation/</url>
 				<pageTitle>Hello Installing Piwik - Analytics - Piwik</pageTitle>
 				<pageIdAction>37</pageIdAction>
+				
 				
 				<pageId>56</pageId>
 				<generationTimeMilliseconds>134</generationTimeMilliseconds>
@@ -1509,6 +1524,7 @@
 				<pageTitle>Liberate Web Analytics - Analytics - Piwik</pageTitle>
 				<pageIdAction>35</pageIdAction>
 				
+				
 				<pageId>54</pageId>
 				<generationTimeMilliseconds>58</generationTimeMilliseconds>
 				<generationTime>0.06s</generationTime>
@@ -1641,6 +1657,7 @@
 				<pageTitle>incredible title!</pageTitle>
 				<pageIdAction>29</pageIdAction>
 				
+				
 				<pageId>50</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -1770,6 +1787,7 @@
 				<url>http://forum.piwik.org/register.php?0,approve=9a94a02145599</url>
 				<pageTitle>Piwik Forums</pageTitle>
 				<pageIdAction>31</pageIdAction>
+				
 				
 				<pageId>51</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -1909,6 +1927,7 @@
 				<pageTitle>Looking at Electronics &amp; Cameras page with a page level custom variable</pageTitle>
 				<pageIdAction>29</pageIdAction>
 				
+				
 				<pageId>33</pageId>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
@@ -1927,6 +1946,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>Another Product page with no category</pageTitle>
 				<pageIdAction>29</pageIdAction>
+				
 				
 				<pageId>52</pageId>
 				<timeSpent>0</timeSpent>
@@ -1950,6 +1970,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>Looking at Electronics &amp; Cameras page with a page level custom variable</pageTitle>
 				<pageIdAction>29</pageIdAction>
+				
 				
 				<pageId>53</pageId>
 				<interactionPosition>3</interactionPosition>

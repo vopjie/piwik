@@ -23,6 +23,7 @@
 				<pageTitle>It's &lt;script&gt; pitch black...</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>40</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -153,6 +154,7 @@
 				<pageTitle>Space Quest XII</pageTitle>
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>35</pageId>
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
@@ -175,6 +177,7 @@
 				<type>search</type>
 				<url />
 				<pageIdAction />
+				
 				
 				<pageId>36</pageId>
 				<timeSpent>180</timeSpent>
@@ -207,6 +210,7 @@
 				<pageTitle />
 				<pageIdAction>37</pageIdAction>
 				
+				
 				<pageId>37</pageId>
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
@@ -220,6 +224,7 @@
 				<pageTitle />
 				<pageIdAction>38</pageIdAction>
 				
+				
 				<pageId>38</pageId>
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
@@ -232,14 +237,15 @@
 				<url>http://piwik.net/space/quest/iv</url>
 				<pageIdAction>8</pageIdAction>
 				
+				
 				<pageId>39</pageId>
 				<eventCategory>Cat6</eventCategory>
 				<eventAction>Action6</eventAction>
 				<eventName>Name6</eventName>
 				<eventValue>351.678</eventValue>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>
@@ -366,6 +372,7 @@
 				<url>http://piwik.net/grue/lair</url>
 				<pageTitle>It's &lt;script&gt; pitch black...</pageTitle>
 				<pageIdAction>2</pageIdAction>
+				
 				
 				<pageId>34</pageId>
 				<interactionPosition>1</interactionPosition>

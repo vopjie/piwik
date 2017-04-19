@@ -11,12 +11,13 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>68</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Purchase</eventAction>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -124,12 +125,13 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>67</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -237,6 +239,7 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>63</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play50%</eventAction>
@@ -244,13 +247,14 @@
 				<timeSpentPretty>22 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>64</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -259,13 +263,14 @@
 				<timeSpentPretty>7 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>66</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -274,13 +279,14 @@
 				<timeSpentPretty>15 min 0s</timeSpentPretty>
 				<eventName>Search query here</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>69</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -289,13 +295,14 @@
 				<timeSpentPretty>2 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url />
 				<pageIdAction />
+				
 				
 				<pageId>70</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -305,13 +312,14 @@
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<eventValue>9.66</eventValue>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/finishedMovie</url>
 				<pageIdAction>27</pageIdAction>
+				
 				
 				<pageId>71</pageId>
 				<eventCategory>event category Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventCategory>
@@ -319,8 +327,8 @@
 				<eventName>event name Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventName>
 				<eventValue>9.66</eventValue>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -428,12 +436,13 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>65</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -541,6 +550,7 @@
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>49</pageId>
 				<eventCategory>Music</eventCategory>
 				<eventAction>play</eventAction>
@@ -548,8 +558,8 @@
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -561,6 +571,7 @@
 				<type>event</type>
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
+				
 				
 				<pageId>50</pageId>
 				<eventCategory>Music</eventCategory>
@@ -569,8 +580,8 @@
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -582,6 +593,7 @@
 				<type>event</type>
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
+				
 				
 				<pageId>51</pageId>
 				<eventCategory>Music</eventCategory>
@@ -590,8 +602,8 @@
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -603,6 +615,7 @@
 				<type>event</type>
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
+				
 				
 				<pageId>52</pageId>
 				<eventCategory>Music</eventCategory>
@@ -611,8 +624,8 @@
 				<timeSpentPretty>30s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -624,6 +637,7 @@
 				<type>event</type>
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
+				
 				
 				<pageId>53</pageId>
 				<eventCategory>Music</eventCategory>
@@ -632,8 +646,8 @@
 				<timeSpentPretty>30s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -645,6 +659,7 @@
 				<type>event</type>
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
+				
 				
 				<pageId>54</pageId>
 				<eventCategory>Music</eventCategory>
@@ -654,8 +669,8 @@
 				<eventName>La fiancée de l'eau</eventName>
 				<eventValue>9</eventValue>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -668,6 +683,7 @@
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>55</pageId>
 				<eventCategory>Music</eventCategory>
 				<eventAction>rating</eventAction>
@@ -676,8 +692,8 @@
 				<eventName>La fiancée de l'eau</eventName>
 				<eventValue>10</eventValue>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -690,6 +706,7 @@
 				<url>http://example.org/movies</url>
 				<pageTitle>Movie Theater</pageTitle>
 				<pageIdAction>15</pageIdAction>
+				
 				
 				<pageId>56</pageId>
 				<timeSpent>60</timeSpent>
@@ -705,6 +722,7 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>57</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playTrailer</eventAction>
@@ -712,13 +730,14 @@
 				<timeSpentPretty>2 min 0s</timeSpentPretty>
 				<eventName>Princess Mononoke (もののけ姫)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>58</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -727,13 +746,14 @@
 				<timeSpentPretty>2 min 0s</timeSpentPretty>
 				<eventName>Ponyo (崖の上のポニョ)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>59</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -742,13 +762,14 @@
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>60</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -757,13 +778,14 @@
 				<timeSpentPretty>2 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>61</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -772,21 +794,22 @@
 				<timeSpentPretty>22 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>62</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play25%</eventAction>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -894,12 +917,13 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>22</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Purchase</eventAction>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1011,12 +1035,13 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>21</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1128,6 +1153,7 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>17</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play50%</eventAction>
@@ -1135,13 +1161,14 @@
 				<timeSpentPretty>22 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>18</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -1150,13 +1177,14 @@
 				<timeSpentPretty>7 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>20</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -1165,13 +1193,14 @@
 				<timeSpentPretty>15 min 0s</timeSpentPretty>
 				<eventName>Search query here</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>23</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -1180,13 +1209,14 @@
 				<timeSpentPretty>2 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url />
 				<pageIdAction />
+				
 				
 				<pageId>24</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -1196,13 +1226,14 @@
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<eventValue>9.66</eventValue>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/finishedMovie</url>
 				<pageIdAction>27</pageIdAction>
+				
 				
 				<pageId>25</pageId>
 				<eventCategory>event category Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventCategory>
@@ -1210,8 +1241,8 @@
 				<eventName>event name Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventName>
 				<eventValue>9.66</eventValue>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1323,12 +1354,13 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>19</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>0</goalConversions>
@@ -1452,6 +1484,7 @@
 				<pageTitle>Welcome!</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>1</pageId>
 				<timeSpent>60</timeSpent>
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
@@ -1466,6 +1499,7 @@
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>2</pageId>
 				<eventCategory>Music</eventCategory>
 				<eventAction>play</eventAction>
@@ -1473,8 +1507,8 @@
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -1486,6 +1520,7 @@
 				<type>event</type>
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
+				
 				
 				<pageId>3</pageId>
 				<eventCategory>Music</eventCategory>
@@ -1494,8 +1529,8 @@
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -1507,6 +1542,7 @@
 				<type>event</type>
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
+				
 				
 				<pageId>4</pageId>
 				<eventCategory>Music</eventCategory>
@@ -1515,8 +1551,8 @@
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -1528,6 +1564,7 @@
 				<type>event</type>
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
+				
 				
 				<pageId>5</pageId>
 				<eventCategory>Music</eventCategory>
@@ -1536,8 +1573,8 @@
 				<timeSpentPretty>30s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -1549,6 +1586,7 @@
 				<type>event</type>
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
+				
 				
 				<pageId>6</pageId>
 				<eventCategory>Music</eventCategory>
@@ -1557,8 +1595,8 @@
 				<timeSpentPretty>30s</timeSpentPretty>
 				<eventName>La fiancée de l'eau</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -1570,6 +1608,7 @@
 				<type>event</type>
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
+				
 				
 				<pageId>7</pageId>
 				<eventCategory>Music</eventCategory>
@@ -1579,8 +1618,8 @@
 				<eventName>La fiancée de l'eau</eventName>
 				<eventValue>9</eventValue>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -1593,6 +1632,7 @@
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>8</pageId>
 				<eventCategory>Music</eventCategory>
 				<eventAction>rating</eventAction>
@@ -1601,8 +1641,8 @@
 				<eventName>La fiancée de l'eau</eventName>
 				<eventValue>10</eventValue>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 				<customVariables>
 					<row>
 						<customVariablePageName1>Page Scope Custom var</customVariablePageName1>
@@ -1626,20 +1666,22 @@
 				<url />
 				<pageIdAction />
 				
+				
 				<pageId>9</pageId>
 				<eventCategory>CategoryTriggersGoal here</eventCategory>
 				<eventAction>This is an event without a URL</eventAction>
 				<timeSpent>1499</timeSpent>
 				<timeSpentPretty>24 min 59s</timeSpentPretty>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>action</type>
 				<url>http://example.org/movies</url>
 				<pageTitle>Movie Theater</pageTitle>
 				<pageIdAction>15</pageIdAction>
+				
 				
 				<pageId>10</pageId>
 				<timeSpent>60</timeSpent>
@@ -1655,6 +1697,7 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>11</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playTrailer</eventAction>
@@ -1662,13 +1705,14 @@
 				<timeSpentPretty>2 min 0s</timeSpentPretty>
 				<eventName>Princess Mononoke (もののけ姫)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>12</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -1677,13 +1721,14 @@
 				<timeSpentPretty>2 min 0s</timeSpentPretty>
 				<eventName>Ponyo (崖の上のポニョ)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>13</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -1692,13 +1737,14 @@
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>14</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -1707,13 +1753,14 @@
 				<timeSpentPretty>2 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>15</pageId>
 				<eventCategory>Movie</eventCategory>
@@ -1722,21 +1769,22 @@
 				<timeSpentPretty>22 min 0s</timeSpentPretty>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 			<row>
 				<type>event</type>
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>16</pageId>
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play25%</eventAction>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
 				<interactionPosition />
-				<icon>plugins/Morpheus/images/event.png</icon>
 				
+				<icon>plugins/Morpheus/images/event.png</icon>
 			</row>
 		</actionDetails>
 		<goalConversions>2</goalConversions>

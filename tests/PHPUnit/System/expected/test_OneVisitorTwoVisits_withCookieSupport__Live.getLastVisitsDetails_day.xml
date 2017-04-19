@@ -23,6 +23,7 @@
 				<pageTitle>Checkout/Purchasing...</pageTitle>
 				<pageIdAction>13</pageIdAction>
 				
+				
 				<pageId>9</pageId>
 				<generationTimeMilliseconds>134</generationTimeMilliseconds>
 				<generationTime>0.13s</generationTime>
@@ -137,6 +138,7 @@
 				<pageTitle>incredible title!</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>1</pageId>
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
@@ -151,6 +153,7 @@
 				<url>http://example.org/</url>
 				<pageTitle>Second page view - should be registered as URL</pageTitle>
 				<pageIdAction>4</pageIdAction>
+				
 				
 				<pageId>2</pageId>
 				<timeSpent>180</timeSpent>
@@ -167,6 +170,7 @@
 				<pageTitle />
 				<pageIdAction>5</pageIdAction>
 				
+				
 				<pageId>3</pageId>
 				<timeSpent>360</timeSpent>
 				<timeSpentPretty>6 min 0s</timeSpentPretty>
@@ -179,6 +183,7 @@
 				<url>http://piwik.org/path/again/latest.zip</url>
 				<pageTitle />
 				<pageIdAction>6</pageIdAction>
+				
 				
 				<pageId>4</pageId>
 				<timeSpent>72</timeSpent>
@@ -193,6 +198,7 @@
 				<pageTitle />
 				<pageIdAction>7</pageIdAction>
 				
+				
 				<pageId>5</pageId>
 				<timeSpent>108</timeSpent>
 				<timeSpentPretty>1 min 48s</timeSpentPretty>
@@ -205,6 +211,7 @@
 				<url>http://dev.piwik.org/svn</url>
 				<pageTitle />
 				<pageIdAction>8</pageIdAction>
+				
 				
 				<pageId>6</pageId>
 				<timeSpent>72</timeSpent>
@@ -229,6 +236,7 @@
 				<url />
 				<pageIdAction />
 				
+				
 				<pageId>7</pageId>
 				<timeSpent>108</timeSpent>
 				<timeSpentPretty>1 min 48s</timeSpentPretty>
@@ -244,6 +252,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>Looking at homepage after site search...</pageTitle>
 				<pageIdAction>11</pageIdAction>
+				
 				
 				<pageId>8</pageId>
 				<generationTimeMilliseconds>24</generationTimeMilliseconds>

@@ -12,6 +12,7 @@
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
 				
+				
 				<pageId>70</pageId>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
@@ -44,6 +45,7 @@
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
 				
+				
 				<pageId>74</pageId>
 				<timeSpent>0</timeSpent>
 				<timeSpentPretty>0s</timeSpentPretty>
@@ -64,6 +66,7 @@
 				<url>http://piwik.net/blog/category/meta/</url>
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
+				
 				
 				<pageId>78</pageId>
 				<timeSpent>52</timeSpent>
@@ -86,6 +89,7 @@
 				<pageTitle />
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>71</pageId>
 				<timeSpent>50</timeSpent>
 				<timeSpentPretty>50s</timeSpentPretty>
@@ -106,6 +110,7 @@
 				<url>http://piwik.net/faq/</url>
 				<pageTitle />
 				<pageIdAction>2</pageIdAction>
+				
 				
 				<pageId>75</pageId>
 				<timeSpent>49</timeSpent>
@@ -128,6 +133,7 @@
 				<pageTitle />
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>79</pageId>
 				<timeSpent>26</timeSpent>
 				<timeSpentPretty>26s</timeSpentPretty>
@@ -148,6 +154,7 @@
 				<url>http://piwik.net/blog/category/community/</url>
 				<pageTitle />
 				<pageIdAction>3</pageIdAction>
+				
 				
 				<pageId>72</pageId>
 				<timeSpent>26</timeSpent>
@@ -170,6 +177,7 @@
 				<pageTitle />
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>76</pageId>
 				<timeSpent>7</timeSpent>
 				<timeSpentPretty>7s</timeSpentPretty>
@@ -191,6 +199,7 @@
 				<pageTitle />
 				<pageIdAction>4</pageIdAction>
 				
+				
 				<pageId>73</pageId>
 				<timeSpent>8</timeSpent>
 				<timeSpentPretty>8s</timeSpentPretty>
@@ -211,6 +220,7 @@
 				<url>http://piwik.net/docs/manage-websites/</url>
 				<pageTitle />
 				<pageIdAction>4</pageIdAction>
+				
 				
 				<pageId>77</pageId>
 				<generationTimeMilliseconds>343</generationTimeMilliseconds>
@@ -327,6 +337,7 @@
 				<url>http://example.org/index.htm</url>
 				<pageTitle>incredible title!</pageTitle>
 				<pageIdAction>29</pageIdAction>
+				
 				
 				<pageId>30</pageId>
 				<interactionPosition>1</interactionPosition>
@@ -467,6 +478,7 @@
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
 				
+				
 				<pageId>28</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -585,6 +597,7 @@
 				<pageTitle />
 				<pageIdAction>1</pageIdAction>
 				
+				
 				<pageId>29</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -692,6 +705,7 @@
 				<pageTitle>301/URL = http%3A%2F%2Fpiwik.net%2Fmoved-permanently</pageTitle>
 				<pageIdAction>25</pageIdAction>
 				
+				
 				<pageId>26</pageId>
 				<timeSpent>180</timeSpent>
 				<timeSpentPretty>3 min 0s</timeSpentPretty>
@@ -721,6 +735,7 @@
 				<url>http://piwik.net/temp-redirect</url>
 				<pageTitle>307/URL = http%3A%2F%2Fpiwik.net%2Ftemp-redirect</pageTitle>
 				<pageIdAction>27</pageIdAction>
+				
 				
 				<pageId>27</pageId>
 				<interactionPosition>2</interactionPosition>
@@ -829,6 +844,7 @@
 				<pageTitle />
 				<pageIdAction>21</pageIdAction>
 				
+				
 				<pageId>23</pageId>
 				<timeSpent>61</timeSpent>
 				<timeSpentPretty>1 min 1s</timeSpentPretty>
@@ -848,6 +864,7 @@
 				<pageTitle />
 				<pageIdAction>22</pageIdAction>
 				
+				
 				<pageId>24</pageId>
 				<timeSpent>61</timeSpent>
 				<timeSpentPretty>1 min 1s</timeSpentPretty>
@@ -866,6 +883,7 @@
 				<url>http://piwik.net/other.png</url>
 				<pageTitle />
 				<pageIdAction>23</pageIdAction>
+				
 				
 				<pageId>25</pageId>
 				<interactionPosition />
@@ -985,6 +1003,7 @@
 				<pageTitle />
 				<pageIdAction>5</pageIdAction>
 				
+				
 				<pageId>22</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -1103,6 +1122,7 @@
 				<pageTitle>500/URL = http%3A%2F%2Fpiwik.net%2Fto-an-error</pageTitle>
 				<pageIdAction>20</pageIdAction>
 				
+				
 				<pageId>21</pageId>
 				<interactionPosition>1</interactionPosition>
 				<icon />
@@ -1209,6 +1229,7 @@
 				<url>http://piwik.net/19.pdf</url>
 				<pageTitle />
 				<pageIdAction>16</pageIdAction>
+				
 				
 				<pageId>18</pageId>
 				<interactionPosition />
@@ -1327,6 +1348,7 @@
 				<url>http://piwik.net/this/is/not/the/page/i/am/looking/for/</url>
 				<pageTitle>404/URL = http%3A%2F%2Fpiwik.net%2Fthis%2Fis%2Fnot%2Fthe%2Fpage%2Fi%2Fam%2Flooking%2Ffor%2F</pageTitle>
 				<pageIdAction>18</pageIdAction>
+				
 				
 				<pageId>20</pageId>
 				<interactionPosition>1</interactionPosition>

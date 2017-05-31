@@ -34,7 +34,7 @@ function createDashboard() {
                 });
             }
         );
-        ajaxRequest.send(true);
+        ajaxRequest.send();
     }});
 }
 
@@ -117,7 +117,7 @@ function copyDashboardToUser() {
             });
         }
     );
-    ajaxRequest.send(true);
+    ajaxRequest.send();
 
     piwikHelper.modalConfirm(makeSelectorLastId('copyDashboardToUserConfirm'), {
         yes: function () {
@@ -141,7 +141,7 @@ function copyDashboardToUser() {
                 }
             );
             ajaxRequest.withTokenInUrl();
-            ajaxRequest.send(true);
+            ajaxRequest.send();
         }
     });
 }

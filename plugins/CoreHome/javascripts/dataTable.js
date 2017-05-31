@@ -270,7 +270,7 @@ $.extend(DataTable.prototype, UIControl.prototype, {
         });
         ajaxRequest.setFormat('html');
 
-        ajaxRequest.send(false);
+        ajaxRequest.send();
     },
 
     // Function called when the AJAX request is successful
@@ -1512,7 +1512,7 @@ $.extend(DataTable.prototype, UIControl.prototype, {
             }, 'post');
             ajaxRequest.setCallback(function () {});
             ajaxRequest.setFormat('html');
-            ajaxRequest.send(false);
+            ajaxRequest.send();
         }
     },
 

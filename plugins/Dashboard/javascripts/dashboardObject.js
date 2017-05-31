@@ -182,7 +182,7 @@
             );
             ajaxRequest.setLoadingElement();
             ajaxRequest.setFormat('html');
-            ajaxRequest.send(true);
+            ajaxRequest.send();
         },
 
         rebuildMenu: rebuildMenu,
@@ -209,7 +209,7 @@
             );
             ajaxRequest.withTokenInUrl();
             ajaxRequest.setFormat('html');
-            ajaxRequest.send(true);
+            ajaxRequest.send();
         },
 
         /**
@@ -645,7 +645,7 @@
 
             ajaxRequest.withTokenInUrl();
             ajaxRequest.setFormat('html');
-            ajaxRequest.send(false);
+            ajaxRequest.send();
         }
     }
 
